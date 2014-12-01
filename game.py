@@ -77,7 +77,10 @@ def displayHelp():
     userInput = ""
     choice = userInput
     return choice
-    
+ 
+def displayInventory(inventory):
+    printNow(inventory) 
+       
 def roomdescription(room):
     printNow("scaryRoom")
 
