@@ -1,3 +1,5 @@
+inventory =[]
+
 def game():
     printNow("*** Welcome to The CSIT Guys’ House of Horrors! ***")
     printNow("In each room you will be told which directions you can go.")
@@ -6,7 +8,7 @@ def game():
     printNow("Type exit to quit at any time.")
     userInput = ""
     currentRoom = "porch"
-    inventory = []
+    global inventory
     rooms = initializeRooms()
     while userInput!="exit":
         printNow("you are now in/on %s" % currentRoom)
@@ -23,7 +25,7 @@ def game():
         userInput = requestString("Choose a direction")
         userInput = parse(userInput)
         if len(userInput)>0:
-            if(userInput!="exit" and userInput!="help"):
+            if(userInput!="exit" and userInput!="help" and userInput!= "i"):
                 validDirection = false
                 for i in range(0,len(roomOptions)):
                    if isinstance(roomOptions[0],list):
@@ -38,7 +40,8 @@ def game():
                 if not validDirection:
                     printNow("Direction is unavailable")    
         else:
-            printNow("I don't understand what you are saying")    
+            printNow("I don't understand what you are saying")
+        printNow("")    
     printNow("goodbye")
     
 def initializeRooms():
@@ -63,6 +66,9 @@ def parse(userInput):
         return "help"
     elif (userInput == "exit"):
         return userInput
+    elif (userInput == "inventory" or userInput=="i"):
+        displayInventory( inventory)
+        return "i"
     else: 
         return ""
 
@@ -77,7 +83,11 @@ def displayHelp():
     userInput = ""
     choice = userInput
     return choice
-    
+ 
+def displayInventory(inventory):
+    printNow("Inventory:")
+    printNow(inventory) 
+       
 def roomdescription(room):
     printNow("scaryRoom")
 
