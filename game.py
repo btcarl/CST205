@@ -11,7 +11,7 @@ def game():
     global inventory
     rooms = initializeRooms()
     while userInput!="exit":
-        getDescription(currentRoom)
+        roomDescription(currentRoom)
         printNow("you are now in/on %s" % currentRoom)
         #get list of rooms available to travel to from current room
         roomOptions = rooms[currentRoom]
