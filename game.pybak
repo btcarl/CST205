@@ -179,9 +179,9 @@ def roomDescription(room):
         printNow("You are in the kitchen.")
         printNow("There is a smell of burnt flesh.")
         if "knife" in items: 
-          printNow("A knife rests on the counter, with a pig\'Â?s wet heart dripping into the sink.")
+          printNow("A knife rests on the counter, with a pig\'s wet heart dripping into the sink.")
         else:  
-          printNow("A pig\'Â?s wet heart is dripping into the sink.")
+          printNow("A pig\'s wet heart is dripping into the sink.")
         printNow("On the table, a Martha Stewart catalog is sealed shut with dried blood.")
         printNow("A faint candlelight flickers from a cool breeze.")
         printNow("The is a door to the south (entryway) and a passage to the west (dining room)")
@@ -192,7 +192,7 @@ def roomDescription(room):
         printNow("A mounted bear head seems to follow your every movement.")
         if "book" in items:
           printNow("A book is sitting on the end table.")
-        printNow("The fireplace\'Â?s embers indicate it has been used recently.")
+        printNow("The fireplace\'s embers indicate it has been used recently.")
         printNow("There is a door to the west (entryway), a door to the north (bathroom), and a door to the east (bedroom).")
     if room == "bathroom":
         printNow(room.upper())
