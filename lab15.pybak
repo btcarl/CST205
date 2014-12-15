@@ -52,5 +52,5 @@ def dates():
   if my_birthday < today:
     my_birthday = my_birthday.replace(year=today.year + 1)
   time_to_birthday = abs(my_birthday - today)
-  printNow("Days till birthday:" + str(time_to_birthday.days))
+  printNow("Days till birthday: " + str(time_to_birthday.days))
   
