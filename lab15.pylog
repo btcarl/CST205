@@ -1,0 +1,105 @@
+<file_created time="Thu Dec 11 12:26:13 EST 2014">
+<menu_button time="Thu Dec 11 12:28:51 EST 2014">Load Program</menu_button>
+<file_saved time="Thu Dec 11 12:29:24 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Thu Dec 11 12:29:28 EST 2014">Load Program</menu_button>
+<command_run time="Thu Dec 11 12:29:33 EST 2014">craps()></command_run>
+<menu_button time="Thu Dec 11 12:30:16 EST 2014">showWarning</menu_button>
+<command_run time="Thu Dec 11 12:31:00 EST 2014">showWarning("test meassage></command_run>
+<command_run time="Thu Dec 11 12:31:07 EST 2014">showWarning("test message")></command_run>
+<menu_button time="Thu Dec 11 12:31:17 EST 2014">showInformation</menu_button>
+<command_run time="Thu Dec 11 12:31:30 EST 2014">showInformation("test Meassage")></command_run>
+<menu_button time="Thu Dec 11 12:31:53 EST 2014">showError</menu_button>
+<command_run time="Thu Dec 11 12:32:00 EST 2014">showError("hey")></command_run>
+<command_run time="Thu Dec 11 12:32:04 EST 2014">showWarning("test message")></command_run>
+<command_run time="Thu Dec 11 12:34:01 EST 2014">showInformation("test Meassage")></command_run>
+<command_run time="Thu Dec 11 12:34:17 EST 2014">import tKinter></command_run>
+<command_run time="Thu Dec 11 12:34:40 EST 2014">import Tkinter></command_run>
+<command_run time="Thu Dec 11 12:35:06 EST 2014">from Tkinter import *></command_run>
+<command_run time="Thu Dec 11 12:35:26 EST 2014">import easygui></command_run>
+<command_run time="Thu Dec 11 12:36:43 EST 2014">import sys></command_run>
+<command_run time="Thu Dec 11 12:36:50 EST 2014">import tkinter></command_run>
+<command_run time="Thu Dec 11 12:36:59 EST 2014">from tkinter import *></command_run>
+<command_run time="Thu Dec 11 12:38:07 EST 2014">import wx></command_run>
+<command_run time="Thu Dec 11 12:38:12 EST 2014">modules></command_run>
+<command_run time="Thu Dec 11 12:38:15 EST 2014">list></command_run>
+<command_run time="Thu Dec 11 12:38:23 EST 2014">import  ?></command_run>
+<command_run time="Thu Dec 11 12:38:26 EST 2014">help></command_run>
+<command_run time="Thu Dec 11 12:38:29 EST 2014">import *></command_run>
+<menu_button time="Thu Dec 11 12:50:00 EST 2014">Load Program</menu_button>
+<file_saved time="Thu Dec 11 12:50:01 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Thu Dec 11 12:50:17 EST 2014">Load Program</menu_button>
+<file_saved time="Thu Dec 11 12:50:21 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<command_run time="Thu Dec 11 12:50:40 EST 2014">craps></command_run>
+<command_run time="Thu Dec 11 12:50:42 EST 2014">craps()></command_run>
+<command_run time="Thu Dec 11 12:51:02 EST 2014">craps()></command_run>
+<command_run time="Thu Dec 11 12:51:36 EST 2014">craps()></command_run>
+<command_run time="Thu Dec 11 12:51:41 EST 2014">craps()></command_run>
+<command_run time="Thu Dec 11 13:50:42 EST 2014">import_tkinter></command_run>
+<command_run time="Thu Dec 11 13:51:33 EST 2014">import Tkinter></command_run>
+<command_run time="Thu Dec 11 13:53:06 EST 2014">import Tkinter></command_run>
+<command_run time="Thu Dec 11 13:54:05 EST 2014">sys.version.info></command_run>
+<command_run time="Thu Dec 11 13:54:17 EST 2014">sys></command_run>
+<command_run time="Thu Dec 11 13:54:23 EST 2014">sys.version></command_run>
+<command_run time="Thu Dec 11 13:58:25 EST 2014">sys></command_run>
+<command_run time="Thu Dec 11 13:58:29 EST 2014">sys.*></command_run>
+<command_run time="Thu Dec 11 13:58:35 EST 2014">sys()></command_run>
+<command_run time="Thu Dec 11 13:58:51 EST 2014">import Tkinter></command_run>
+<command_run time="Fri Dec 12 14:14:35 EST 2014">craps></command_run>
+<command_run time="Fri Dec 12 14:14:37 EST 2014">craps()></command_run>
+<menu_button time="Fri Dec 12 14:54:40 EST 2014">Load Program</menu_button>
+<file_saved time="Fri Dec 12 14:54:41 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Fri Dec 12 14:54:50 EST 2014">Load Program</menu_button>
+<file_saved time="Fri Dec 12 14:54:51 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Fri Dec 12 14:54:56 EST 2014">Load Program</menu_button>
+<file_saved time="Fri Dec 12 14:54:57 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Fri Dec 12 14:55:37 EST 2014">Load Program</menu_button>
+<file_saved time="Fri Dec 12 14:55:39 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Fri Dec 12 14:56:12 EST 2014">Load Program</menu_button>
+<file_saved time="Fri Dec 12 14:56:13 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<menu_button time="Fri Dec 12 14:57:18 EST 2014">Load Program</menu_button>
+<command_run time="Fri Dec 12 14:57:27 EST 2014">craps()></command_run>
+<menu_button time="Fri Dec 12 14:57:39 EST 2014">Load Program</menu_button>
+<file_saved time="Fri Dec 12 14:57:40 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+<file_opened time="Sun Dec 14 21:55:53 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_opened>
+<command_run time="Sun Dec 14 21:59:48 EST 2014">calendar.weekday(1776, 7,4)></command_run>
+<command_run time="Sun Dec 14 21:59:57 EST 2014">calendar.weekday(1776, 7,5)></command_run>
+<menu_button time="Sun Dec 14 22:09:31 EST 2014">Load Program</menu_button>
+<file_saved time="Sun Dec 14 22:09:32 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<command_run time="Sun Dec 14 22:09:57 EST 2014">dates()></command_run>
+<command_run time="Sun Dec 14 22:14:16 EST 2014">calendar.prmonth(2014,12)></command_run>
+<command_run time="Sun Dec 14 22:26:52 EST 2014">import date from datetime></command_run>
+<command_run time="Sun Dec 14 22:27:00 EST 2014">import datetime></command_run>
+<command_run time="Sun Dec 14 22:27:07 EST 2014">import datetim></command_run>
+<command_run time="Sun Dec 14 22:27:10 EST 2014">import datetime></command_run>
+<menu_button time="Sun Dec 14 22:34:10 EST 2014">Load Program</menu_button>
+<file_saved time="Sun Dec 14 22:34:11 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<command_run time="Sun Dec 14 22:34:33 EST 2014">craps()></command_run>
+<command_run time="Sun Dec 14 22:34:37 EST 2014">craps()></command_run>
+<command_run time="Sun Dec 14 22:35:30 EST 2014">dates()></command_run>
+<menu_button time="Sun Dec 14 22:36:28 EST 2014">Load Program</menu_button>
+<file_saved time="Sun Dec 14 22:36:30 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<command_run time="Sun Dec 14 22:36:33 EST 2014">dates()></command_run>
+<menu_button time="Sun Dec 14 22:36:44 EST 2014">Load Program</menu_button>
+<file_saved time="Sun Dec 14 22:36:46 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<command_run time="Sun Dec 14 22:36:51 EST 2014">dates()></command_run>
+<menu_button time="Sun Dec 14 22:39:32 EST 2014">Load Program</menu_button>
+<file_saved time="Sun Dec 14 22:39:33 EST 2014">C:\Users\bcarlston\OneDrive\School\CST205\Python\lab15.py</file_saved>
+</file_created>
+<command_run time="Sun Dec 14 22:39:48 EST 2014">craps()></command_run>
+<command_run time="Sun Dec 14 22:39:55 EST 2014">craps()></command_run>
+<command_run time="Sun Dec 14 22:40:01 EST 2014">craps()></command_run>
+<menu_button time="Sun Dec 14 22:42:02 EST 2014">Save Program As...</menu_button>
+<file_saved time="Sun Dec 14 22:42:12 EST 2014">C:\Users\bcarlston\Desktop\mygit\lab15.py</file_saved>
+</file_created>
