@@ -18,12 +18,10 @@ def craps():
         point = total
         total = 0
         while total != point and total != 7:
-            print " "
-            print "Roll Again"
             die1 = rollDie()
             die2 = rollDie()
             total = die1 + die2
-            messageBox(die1, die2)
+            messageBox(die1, die2, point)
         if total == 7:
             islost = True
     elif total in losing_options:
@@ -32,8 +30,11 @@ def craps():
         showWarning( "You Lose")
     else:
         showInformation( "You Win")
-def messageBox(die1, die2):
-    showInformation( "Die 1: " + str(die1)+ "\nDie 2: " + str(die2) + "\nTotal: "+ str(die1+die2))
+def messageBox(die1, die2, point = 0):
+    if point == 0:
+      showInformation( "Die 1: " + str(die1)+ "\nDie 2: " + str(die2) + "\nTotal: "+ str(die1+die2))
+    else:
+      showInformation( "Die 1: " + str(die1) + "              Point: "+ str(point) +"\nDie 2: " + str(die2) + "\nTotal: "+ str(die1+die2))
 
 def rollDie():
     rolledAmount = random.randint(1, 6)
